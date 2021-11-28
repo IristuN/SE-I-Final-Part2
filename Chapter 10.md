@@ -15,7 +15,7 @@
 	- minimalist
 	- White space
 	- informaltion density
-		- Novie < 50%
+		- Novice < 50%
 		- Expert > 50%
 	- Text
 		- size
